@@ -1,12 +1,3 @@
-### Olá! Eu sou o Sildinho! 👋
-
-- 🔭 Atualmente ... buscando por vagas de estágio ou júnior.
-
-- 🌱 Aprendendo Node.js e Python. nas horas vagas estudo um pouco de C# ou java.
-
-- ⚡ Curiosidades... Capixaba, morando no erre jota há 1 década, formado em administração e outras coisas. desde 2018 paquerando TI mas só desci migrar em 2019. estudante de análise e desenvolvimento de sistemas no último módulo.
-
-
 ## Olá! Eu sou o Sildinho! 
 
 <div>
@@ -20,11 +11,16 @@
   <img align="center" alt="Sildinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Sildinho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sildinho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sildinho-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Sildinho-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sildinho-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Sildinho-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
-##
+#
 
-  
  
+<div> 
+  <a href = "mailto:sildojunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sildo-miranda-junior-1898b03b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
