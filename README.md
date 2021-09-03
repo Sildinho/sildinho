@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Sildinho! 👋
 
-- 🔭 Atualamente ... buscando por vagas de estagio ou junior.
+- 🔭 Atualmente ... buscando por vagas de estágio ou júnior.
 
 - 🌱 Aprendendo Node.js e Python. nas horas vagas estudo um pouco de C# ou java.
 
-- ⚡ Curiosidades... Capixaba, morando no errejota há 1 decada, formado em administração e outras coisas. desde 2018 paquerando TI mas só desci migrar em 2019. estatudante de análise e desenvolvimento de sistemas no último módulo.
+- ⚡ Curiosidades... Capixaba, morando no erre jota há 1 década, formado em administração e outras coisas. desde 2018 paquerando TI mas só desci migrar em 2019. estudante de análise e desenvolvimento de sistemas no último módulo.
